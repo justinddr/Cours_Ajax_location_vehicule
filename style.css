@@ -1,0 +1,79 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+.logo{
+    max-height: 100%;
+    max-width: 100%;
+}
+
+nav{
+    height:3rem;
+    margin-bottom: 2rem;
+    border-bottom-color: black;
+    border-bottom-style: solid ;
+    border-bottom-width: 0.1rem;
+}
+
+
+ul{
+    list-style-type: none;
+}
+
+
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+ul li{
+    margin-left: 3rem;
+}
+
+
+.typeVehicule a{
+    text-decoration: none;
+    color: white;
+    padding: 0.5rem 2.5rem;
+    background-color: rgb(173, 173, 173);
+}
+
+
+.formCar{
+    max-height: 100%;
+    background: url("./assets/voiture1.jpg")  no-repeat     ;
+   
+    background-size: cover;
+    padding:3rem;
+    
+    
+}
+
+.formCar form{
+    background-color: white;
+    width: 20%;
+  
+}
+
+/* .formCar form{
+    background-color: white;
+    width: 30%;
+  
+}
+
+form button{
+        width: 10rem;
+        padding: 0.5rem 0.8rem
+}
+.envoie{
+    padding: 2rem;
+}
+
+.formCar form input{
+    margin-bottom: 2rem;
+}
+.choixAg input{
+    width: 74%
+} */

@@ -14,6 +14,8 @@ nav{
     border-bottom-color: black;
     border-bottom-style: solid ;
     border-bottom-width: 0.1rem;
+    padding-top: 1rem;
+    
 }
 
 
@@ -31,7 +33,9 @@ a{
 ul li{
     margin-left: 3rem;
 }
-
+.typeVehicule{
+    padding-bottom: 1rem;
+}
 
 .typeVehicule a{
     text-decoration: none;
